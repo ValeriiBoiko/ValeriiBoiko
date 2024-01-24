@@ -43,4 +43,4 @@ Experienced React Native Developer with 4.5 years in web and mobile development.
 
 Thanks for stopping by! Feel free to reach out with any questions! 😼 
 
-<a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+<a href="https://www.linkedin.com/in/valerii-boiko" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
